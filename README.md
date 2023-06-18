@@ -1,3 +1,3 @@
 # odin-recipes
-Recipe Website 
+Recipe Website: 
 3 different recipes you can bring to the cook-out.
